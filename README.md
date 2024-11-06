@@ -48,9 +48,3 @@
     <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimMuneo&layout=compact" alt="KimMuneo's Top Languages" />
-</div>
