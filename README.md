@@ -8,6 +8,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=for-the-badge&logo=Springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=Mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/RESTful-005571.svg?style=for-the-badge&logo=rest&logoColor=white" />
 </div>
 
 <div align="center">
